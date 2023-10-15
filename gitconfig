@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jason@grieder.org
+	name = Jason Grieder
